@@ -1,0 +1,3 @@
+  * print PID owner
+  * clean up messy code
+  * smarter polling, or find way to block (inotify on shared libraries?)
